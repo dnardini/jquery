@@ -1,0 +1,4 @@
+jquery
+======
+
+Jquery practices
